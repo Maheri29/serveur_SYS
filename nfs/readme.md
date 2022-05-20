@@ -12,5 +12,4 @@
                 <p>Coté serveur:
     
                     apt-get nfs-kernel-server
-                    apt install nfs-kernel-server
-                </p>
+                    apt install nfs-kernel-server</p>
