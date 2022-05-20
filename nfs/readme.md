@@ -8,8 +8,9 @@
                 <p>NFS peut être utilisé pour partager des répertoires de fichiers entre plusieurs utilisateurs sur un même réseau.
                 </p>
 
-   <h2>Installer NFS</h2>
-                <p>Coté serveur:
-    
-                    apt-get nfs-kernel-server
-                    apt install nfs-kernel-server</p>
+ <h2>Installer NFS</h2>
+                <p>Coté serveur:  </p>
+                   <p>apt-get nfs-kernel-server</p> 
+                   <p>apt install nfs-kernel-server</p> 
+
+              
