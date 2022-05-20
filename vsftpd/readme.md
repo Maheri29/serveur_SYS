@@ -41,3 +41,4 @@ sudo mkdir ftp</p>
 <p>sudo chown nombre-usuario:nombre-usuario /home/nombre-usuario/ftp/files</p>
 <p>À ce stade, nous allons créer un fichier de test dans le dossier des fichiers:</p>
 <p>cho "vsftpd archivo de ejemplo" | sudo tee /home/nombre-usuario/ftp/files/ejemplo.txt</p>
+<a href="https://github.com/Maheri29/serveur_SYS">Retour</a>
