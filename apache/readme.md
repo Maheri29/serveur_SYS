@@ -12,8 +12,8 @@
 </p>
 
 <h2>Verifier votre serveur web</h2>
-<p>Vérifier avec systemd init si le service fonctionne en saisissant : :</p>
-<p>sudo systemctl status apache2</p>
+<p>Vérifier avec systemd init si le service fonctionne en saisissant : 
+sudo systemctl status apache2</p>
 
 <h2>Gestion du processus Apache</h2>
 <p>passons en revue quelques commandes de gestion de base en utilisant systemctl.</p>
