@@ -4,12 +4,12 @@
         UNIX mais des versions existent également pour Microsoft Windows™ et Mac.
     </p>
 
-            <h2>NFS, pour faire quoi?</h2>
+   <h2>NFS, pour faire quoi?</h2>
                 <p>NFS peut être utilisé pour partager des répertoires de fichiers entre plusieurs utilisateurs sur un même réseau.
 
                 </p>
 
-                <h2>Installer NFS</h2>
+   <h2>Installer NFS</h2>
                 <p>Coté serveur:
                     apt-get nfs-kernel-server
                     apt install nfs-kernel-server
