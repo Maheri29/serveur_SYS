@@ -27,3 +27,5 @@
                     <p>$ mount -t nfs4 192.168.21.200:/media/partage /media/nfs -o soft,retrans=2,timeo=5</p>
                     <p>Ou dans /etc/fstab :</p>
                     <p>$ 192.168.21.200:/media/partage /media/nfs nfs auto,_netdev,nofail,soft,retrans=2,timeo=5 0 0</p>
+                    
+ <a href="https://github.com/Maheri29/serveur_SYS">Retour</a>
