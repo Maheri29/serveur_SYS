@@ -21,3 +21,4 @@
 <p>Tout ce dont vous aurez besoin pour la configuration de votre serveur NGINX se trouve dans le dossier /etc/nginx et dans le fichier de configuration nginx.conf. A chaque fois que vous effectuez des modifications dans ces fichiers, il est nécessaire de redémarrer le serveur à l’aide de l’une des commandes suivantes pour qu’elles soient prises en compte :</p>
 <p>sudo service nginx reload</p>
 <p>sudo service nginx restart</p>
+<a href="https://github.com/Maheri29/serveur_SYS">Retour</a>
